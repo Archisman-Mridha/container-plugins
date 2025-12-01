@@ -1,0 +1,4 @@
+[submodule "storage/spec"]
+	path = storage/spec
+	url = https://github.com/container-storage-interface/spec
+	branch = release-1.12
